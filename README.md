@@ -6,4 +6,3 @@ https://public.tableau.com/app/profile/hussam.mislmani/viz/FilmDataset/Dashboard
  2. it has 8 columns (id: film_id, genre_ids: the ids for genre of this film {this point is clear in python file}, title, popularity: the number of film popularity with max value = 4696.546, release_data, vote_average, vote_count)
  3. i am creating python script to ^lookup^ genre_ids with actual values.
 
-[![image]([Image URL](https://github.com/HuSSam-lab/MoviesTopRated-Project/blob/main/image.png)https://github.com/HuSSam-lab/MoviesTopRated-Project/blob/main/image.png)]([Link to the image])
